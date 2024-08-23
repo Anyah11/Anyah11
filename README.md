@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Anyah11
-- 👀 I’m interested in DEVOPS ENGINEERIN 
+- 👋 Hi, I’m @Anyah11 (kelechi)
+- 👀 I’m interested in DEVOPS ENGINEERINg
 - 🌱 I’m currently learning Aws and scripting 
 - 💞️ I’m looking to collaborate on GitHub 
 
