@@ -11,7 +11,6 @@ I'm passionate about automation, cloud infrastructure, and making software deliv
 - 🛠 Currently learning **AWS**, **Bash/Python scripting**, and **Docker**
 - 🔍 Exploring DevOps practices like **CI/CD**, **Monitoring**, and **Infrastructure as Code (IaC)**
 - 📚 Studying Computer Science at the University of Lethbridge
-- 🌍 Originally from Nigeria 🇳🇬, now based in Canada 🇨🇦
 - 🎯 Career goal: To become a skilled **DevOps Engineer** working on scalable, resilient cloud systems
 
 ---
